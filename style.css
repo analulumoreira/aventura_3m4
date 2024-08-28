@@ -3,5 +3,29 @@ body{
     color: black;
     font-family: monospace;
     display: flex;
-    
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+button {
+   background :purple
+   color(red);
+   font-family: 'Lucida Sans', 'Lucida Sans Reg';
+}
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
+}
+main{
+    text-align: center;
+    max-width: 90%;
+}
+img{
+    max-width: 90%;
+ 
 }
